@@ -6,11 +6,11 @@
 
 ## Usage
 
-`` javascript
+``` javascript
 var json = require("json!./file.json");
 // => returns file.json content as json string.
 // if you want to get a module you can use webpack/json-loader.
-``
+```
 
 ## License
 
