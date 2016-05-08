@@ -1,0 +1,21 @@
+{
+  "name": "json2-loader",
+  "version": "0.1.0",
+  "description": "json loader for webpack(get json string).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banama/json2-loader.git"
+  },
+  "keywords": [
+    "json",
+    "loader",
+    "webpack"
+  ],
+  "author": "banama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/banama/json2-loader/issues"
+  },
+  "homepage": "https://github.com/banama/json2-loader#readme"
+}
