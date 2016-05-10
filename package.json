@@ -1,6 +1,6 @@
 {
   "name": "json2-loader",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "json loader for webpack(get json string).",
   "main": "index.js",
   "repository": {
